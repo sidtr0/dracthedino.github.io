@@ -10,7 +10,7 @@ tags:
 
 In 2020, life slowed down a tad bit and having more time in my hands, I decided to pick up something which I always wanted to for years - I got into 3D modelling. At the time, my best friend, Calcium was a regular Blender user, dishin' out badass low poly Blender cars every week and truth be told, it looked very cool in my eyes and I wanted to make those things myself.
 
-{% include figure image_path="/assets/images" alt="this is a placeholder image" caption="My friend's cool Ferrari F40 in low poly." %}
+{% include figure image_path="/assets/images" alt="OR IS IT" caption="My friend's cool Ferrari F40 in low poly." %}
 
 As is tradition in the Blender community, the first thing every beginner does is... make a donut. It seems to be the easiest thing ever and it somehow became a de facto "Hello World" of the 3D modelling world.
 
